@@ -3,3 +3,5 @@
 Пример работы с git
 
 print("Hello, World!")
+
+print(1+3)
