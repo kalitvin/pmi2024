@@ -5,3 +5,6 @@
 print("Hello, World!")
 
 print(1+3)
+
+def f(x):
+   return 1
